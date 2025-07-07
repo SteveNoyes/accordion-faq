@@ -136,6 +136,10 @@ body {
     display: none !important;
   }
 
+  .accordion-wrapper {
+    max-width: 700px;
+  }
+
   .desktop-header-image {
     display: block !important;
     position: absolute !important;
